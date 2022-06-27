@@ -1,7 +1,5 @@
 #Zain Malik's Notes
 ###### H6 header
-#summary
-This repository holds notes for Zains data science bootcamp
+#Summary
 
-
-
+This repository holds notes for [Zains](https://github.com/zainmmk) data science bootcamp
